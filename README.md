@@ -1,6 +1,7 @@
 # AI Dashboard Generator
 
 This application allows users to upload Excel files and generate interactive dashboards with data visualizations.
+You can see the demo at https://cyberlens.streamlit.app/
 
 ## Features
 
